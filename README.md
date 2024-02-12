@@ -1,10 +1,15 @@
 # Data Scientist
 
-### Education
+#### Technical Skills
+- Programming: Python (PyTorch, skit-learn, TensorFlow, pandas, NumPy), Java, SQL, and C/C++
+- Database: Redshift, Athena, Oracle, Snowflake, and MongoDB
+- Machine Learning: Regression, Classification, Clustering, Decision Tree, Random Forest, XGBoost, and Time Series
+
+## Education
 - M.S., Information Systems Management - Business Intelligence & Data Analytics | Carnegie Mellon University (_Dec 2022_)
 - B.S., Quantitative Finance | National Tsing Hua University (_Dec 2019_)
 
-### Work Experience 
+## Work Experience 
 **Data Scientist II @ DISH Wireless (_Feb 2023 - Present_)**
 
 **Data Scientist Intern @ Yapstone (_June 2022 - Aug. 2022_)**
@@ -17,4 +22,4 @@
 
 **Big Data Intelligence Intern @ Taipei Fubon Bank (_June. 2018 - Aug. 2018_)**
 
-### Projects
+## Projects
