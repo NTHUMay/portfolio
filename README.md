@@ -14,8 +14,8 @@
 ## Work Experience 
 **Data Scientist II @ DISH Wireless (_Feb 2023 - Present_)**
 - Designed and built a Network Profitability Model, incorporating profits, ROIC, network KPIs, and allocation strategies at the site level within a multi-billion-dollar business, generating and defining data-driven metrics to support C-suite business decision-making
-○ Engineered data usage and user connection prediction for network capacity planning with time series models, including ARIMA, Prophet, LightGBM, XGBoost, and LSTM achieved an MAE of approximately 20 MB
-○ Developed hierarchical KPIs for financial and network performances and generated statistical anomaly detection analysis report
+- Engineered data usage and user connection prediction for network capacity planning with time series models, including ARIMA, Prophet, LightGBM, XGBoost, and LSTM achieved an MAE of approximately 20 MB
+- Developed hierarchical KPIs for financial and network performances and generated statistical anomaly detection analysis report
 - Built dashboards with Tableau to monitor and demonstrate statistical analysis for Purchase Order and Invoice Lifecycle
 - Constructed and deployed a prototype to identify and extract dimensions of on-site hardware from drone images by utilizing AWS computer vision and cloud services, including Lambda, Sagemaker, Ground Truth, Rekognition, Meta Segment Anything, and Blender
 - Led a 15-member team to resolve network integration system failure tickets and automated the solution pipeline with NLP techniques, including nltk; built dashboards with Tableau to demonstrate network integration time-motion statistical analysis, driving a network national coverage increase from 28% to 71%
@@ -23,7 +23,7 @@
 **Data Scientist Intern @ Yapstone (_June 2022 - Aug. 2022_)** 
 - Architect ETL pipeline to process 50k text and image financial contracts with AWS Textract and conducted feature engineering with NLP packages, including nltk and spaCy, extracting around 36k personal identification profiles
 - Built data visualization dashboards with Looker to monitor and identify patterns of fraudulent financial transactions
-- 
+  
 **Campaign Data Analyst @ Appier (_Nov. 2020 - June 2021_)**
 - Optimized ad performance for 25+ corporate clients’ marketing campaigns based on comprehensive analysis, including user segmentation, churn rate on different funnel stages, traffic suppliers, and creative suitability, generating $500K of monthly revenue
 - Led cross-team collaborations with the Data Science and Engineering team to improve data governance, model building, and parameter tuning, boosting the campaign margin by more than 50% and the burn rate by 80%
@@ -41,7 +41,7 @@
 ## Projects
 ### Investment Prediction Model
 [Project Link](https://github.com/NTHUMay/Loan-investment-prediction-strategy)
-<br>
+
 This project focused on constructing end-to-end machine learning models to implement peer-to-peer loan investment strategies to create the best investment method. We performed exploratory data analysis on 10 years of loan transaction data on LendingClub. We conducted feature
 engineering for over a hundred features, ensuring the hypothesis's correctness and summarizing the characteristics of the data set. Out of models including Logistic Regression, Random Forest, and multi-layer Neural Network, after tuning the hyper-parameter by grid search, we finalized the result with Random Forest Model at an accuracy of 80%
 
