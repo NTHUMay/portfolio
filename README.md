@@ -6,10 +6,10 @@
 - Machine Learning: Regression, Classification, Clustering, Decision Tree, Random Forest, XGBoost, and Time Series
 
 ## Education
-- M.S., Information Systems Management - Business Intelligence & Data Analytics | Carnegie Mellon University (_Dec 2022_) <br>
-- B.S., Quantitative Finance | National Tsing Hua University (_Dec 2019_)
-- B.S. Minor, Music | National Tsing Hua University (_Dec 2019_)
-- Awarded Scholarship Exchange, Economics | Paris Saclay University (_Dec 2019_)
+- M.S., Information Systems Management - Business Intelligence & Data Analytics | Carnegie Mellon University (_Dec 2022_)
+- B.S., Quantitative Finance                                                    | National Tsing Hua University (_Dec 2019_)
+- B.S. Minor, Music                                                             | National Tsing Hua University (_Dec 2019_)
+- Awarded Scholarship Exchange, Economics                                       | Paris Saclay University (_Dec 2019_)
 
 ## Work Experience 
 **Data Scientist II @ DISH Wireless (_Feb 2023 - Present_)**
