@@ -1,9 +1,9 @@
 # Data Scientist
 
 #### Technical Skills
-- Programming: Python (PyTorch, skit-learn, TensorFlow, pandas, NumPy), Java, SQL, and C/C++
+- Programming: Python (Pandas, PyTorch, scikit-learn, TensorFlow, numpy, and PySpark), Java, SQL, and C/C++
 - Database: Redshift, Athena, Oracle, Snowflake, and MongoDB
-- Machine Learning: Regression, Classification, Clustering, Decision Tree, Random Forest, XGBoost, and Time Series
+- Machine Learning: Regression, Classification, Clustering, Decision Tree, Random Forest, XGBoost, Neural Networks, Feature Engineering, Hyper Parameter Tuning, Statistical Modeling, Time Series Analysis, A/B Testing, and Causal Inference
 
 ## Education
 - M.S., Information Systems Management - Business Intelligence & Data Analytics | Carnegie Mellon University (_Dec 2022_)
