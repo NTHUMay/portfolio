@@ -8,6 +8,8 @@
 ## Education
 - M.S., Information Systems Management - Business Intelligence & Data Analytics | Carnegie Mellon University (_Dec 2022_) <br>
 - B.S., Quantitative Finance | National Tsing Hua University (_Dec 2019_)
+- B.S. Minor, Music | National Tsing Hua University (_Dec 2019_)
+- Awarded Scholarship Exchange, Economics | Paris Saclay University (_Dec 2019_)
 
 ## Work Experience 
 **Data Scientist II @ DISH Wireless (_Feb 2023 - Present_)** <br>
@@ -43,3 +45,18 @@
 This project focused on constructing end-to-end machine learning models to implement peer-to-peer loan investment strategies to create the best investment method. We performed exploratory data analysis on 10 years of loan transaction data on LendingClub. We conducted feature
 engineering for over a hundred features, ensuring the hypothesis's correctness and summarizing the characteristics of the data set. Out of models including Logistic Regression, Random Forest, and multi-layer Neural Network, after tuning the hyper-parameter by grid search, we finalized the result with Random Forest Model at an accuracy of 80%
 
+## Extracurricular Activities
+### Music
+[Performance Link](https://youtu.be/EAzWafHS8lI?si=k2Bk5VCrRBWenmX5)
+
+**Honors**
+- Concert Master @ Tsing Hua Symphony Orchestra (2016 - 2018)
+- Winner @ NTHU concerto competition (2017)
+- 1st place in violin solo @ Hsin Chu City Violin Competition (2017)
+- 3rd place in violin solo @ National Violin Competition (2015)
+
+### Dance
+[Performance Link](https://youtu.be/6_vdPLpAbRw?si=EOa7IPy48_mRGaHt)
+
+**Honors**
+- Choreographer @ Tsing Hua Dance Club
