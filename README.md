@@ -39,6 +39,7 @@ B.S., Quantitative Finance | National Tsing Hua University (_Dec 2019_)
 ## Projects
 ### Investment Prediction Model
 [Project Link](https://github.com/NTHUMay/Loan-investment-prediction-strategy)
+
 This project focused on constructing end-to-end machine learning models to implement peer-to-peer loan investment strategies to create the best investment method. We performed exploratory data analysis on 10 years of loan transaction data on LendingClub. We conducted feature
 engineering for over a hundred features, ensuring the hypothesis's correctness and summarizing the characteristics of the data set. Out of models including Logistic Regression, Random Forest, and multi-layer Neural Network, after tuning the hyper-parameter by grid search, we finalized the result with Random Forest Model at an accuracy of 80%
 
