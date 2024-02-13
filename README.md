@@ -37,7 +37,7 @@
 - Built quantitative analysis reports with Data Studio (Looker Studio), including cohort analyses and customer persona analyses, to capture market trends and give product improvement consultations to stakeholders
 - Collaboratively enhanced product design policies in coordination with the international team and implemented an automated pipeline using Google Scripts for efficient data preparation, email alerts, and document creation
 
-**Big Data Intelligence Intern @ Taipei Fubon Bank (_June. 2018 - Aug. 2018_)** Taipei, Taiwan
+**Big Data Intelligence Intern @ Taipei Fubon Bank (_June 2018 - Aug. 2018_)** Taipei, Taiwan
 
 ## Projects
 ### Investment Prediction Model
