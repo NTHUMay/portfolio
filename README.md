@@ -33,11 +33,11 @@
 - Launched end-to-end A/B testing and built automatic data visualization reports with Tableau to optimize and monitor post-launch ad campaign performance, increasing revenue growth by 24% in two quarters for IQ Option <br>
 - Conducted market analytics research on user behaviors, customer lifecycle and performed prelaunch analysis, including user LTV and conversion funnel; successfully initiated new partnerships with five clients, including Social Point and Blizzard <br>
 
-**Market Data Analyst Consultant Intern @ Google (_Oct. 2018 - Jul. 2019_)** Taipei, Taiwan
+**Market Data Analyst Consultant Intern @ Google (_Oct. 2018 - Jul. 2019_)** | Taipei, Taiwan
 - Built quantitative analysis reports with Data Studio (Looker Studio), including cohort analyses and customer persona analyses, to capture market trends and give product improvement consultations to stakeholders
 - Collaboratively enhanced product design policies in coordination with the international team and implemented an automated pipeline using Google Scripts for efficient data preparation, email alerts, and document creation
 
-**Big Data Intelligence Intern @ Taipei Fubon Bank (_June 2018 - Aug. 2018_)** Taipei, Taiwan
+**Big Data Intelligence Intern @ Taipei Fubon Bank (_June 2018 - Aug. 2018_)** | Taipei, Taiwan
 
 ## Projects
 ### Investment Prediction Model
