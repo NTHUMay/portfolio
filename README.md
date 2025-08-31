@@ -13,7 +13,15 @@
 - Awarded Scholarship Exchange, Economics                                       | Paris Saclay University (_Dec 2019_)
 
 ## Work Experience 
-**Data Scientist II @ DISH Wireless (_Feb 2023 - Present_)** | Denver, CO, United States
+**Senior Data Scientist @ Appier (_Sep 2024 - Present_)** | Taipei, Taiwan
+- Led data-driven user acquisition ad placement strategy for a $2M+ monthly budget across US/EMEA, boosting revenue by ~150%
+  - Conducted breakdown analysis on campaign performance, including creative effectiveness, traffic optimization, frequency capping estimation and model generalization, discovering areas of improvement
+  - Leveraged factor analysis and LightGBM to identify feature importance, improving ROAS by 10%
+- Worked cross-functionally with program managers and engineers to enhance creative performance by integrating new features and leveraging A/B testing to measure impact, driving a 30% increase in click-through rate and a 10% decrease in user acquisition cost	      
+- Validated and integrated new feature signals by EDA and backtesting, boosting the target audience prediction model AUC by 5%
+- Designed metrics and built 5+ dashboards with Grafana to monitor campaign KPIs and surface actionable insights, facilitating real-time performance tracking and faster decision-making
+
+**Data Scientist II @ DISH Wireless (_Feb 2023 - Sep 2024_)** | Denver, CO, United States
 - Designed and built a Network Profitability Model, incorporating profits, ROIC, network KPIs, and allocation strategies at the site level within a multi-billion-dollar business, generating and defining data-driven metrics to support C-suite business decision-making
 - Engineered data usage and user connection prediction for network capacity planning with time series models, including ARIMA, Prophet, LightGBM, XGBoost, and LSTM achieved an MAE of approximately 20 MB
 - Developed hierarchical KPIs for financial and network performances and generated statistical anomaly detection analysis report
